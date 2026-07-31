@@ -28,3 +28,15 @@ node_modules/
 .env
 .claude/settings.json
 broadcast/*
+
+#frontend
+ltzen-frontend/
+docs/*
+!docs/frontend-integration.md
+!docs/explorer-guide.md
+!docs/initial_setup.md
+!docs/qa-testing-guide.md
+
+#deploy
+deploy/
+

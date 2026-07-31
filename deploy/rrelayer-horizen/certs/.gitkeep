@@ -1,3 +1,0 @@
-# Placeholder so `mkdir -p certs` + certbot symlink instructions work.
-# Place (or symlink) fullchain.pem and privkey.pem here before `docker compose up`.
-# See README.md § TLS.
